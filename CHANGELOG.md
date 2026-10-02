@@ -1,9 +1,15 @@
 # Changelog
 
-## 2026.10.2 - 2026-10-02
+## 2026.10.3 - 2026-10-02
 
 Fix a black screen at connection when the PC sends extra information before the
 first picture. These streams could play sound, then stop after ten seconds.
+
+## 2026.10.1 - 2026-10-02
+
+Glimmer is now signed with Apple's current Developer ID certificate, ahead of
+the older one's retirement in February. Updates, paired PCs and the permissions
+you've granted all carry over; there's nothing to do.
 
 ## 2026.10.0 - 2026-10-01
 
