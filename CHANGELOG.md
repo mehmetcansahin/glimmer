@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026.10.2 - 2026-10-02
+
+Fix a black screen at connection when the PC sends extra information before the
+first picture. These streams could play sound, then stop after ten seconds.
+
 ## 2026.10.1 - 2026-10-02
 
 Fix surround-sound streams that couldn't start with 5.1 or 7.1 audio. Every
