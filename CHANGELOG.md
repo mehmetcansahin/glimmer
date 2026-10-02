@@ -1,9 +1,15 @@
 # Changelog
 
-## 2026.10.1 - 2026-10-02
+## 2026.10.2 - 2026-10-02
 
 Fix surround-sound streams that couldn't start with 5.1 or 7.1 audio. Every
 channel now plays through macOS's sound decoder, including after a lost packet.
+
+## 2026.10.1 - 2026-10-02
+
+Glimmer is now signed with Apple's current Developer ID certificate, ahead of
+the older one's retirement in February. Updates, paired PCs and the permissions
+you've granted all carry over; there's nothing to do.
 
 ## 2026.10.0 - 2026-10-01
 
